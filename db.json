@@ -1,0 +1,28 @@
+{
+	"students": [
+		{
+			"id": 1,
+			"firstName": "Titus",
+			"secondName": "Muthomi",
+			"course": "Software development"
+		},
+		{
+			"id": 2,
+			"firstName": "Lorraine",
+			"secondName": "Kupa",
+			"course": "Data Science"
+		},
+		{
+			"id": 3,
+			"firstName": "Linex",
+			"secondName": "Mugambi",
+			"course": "Product Design"
+		},
+		{
+			"id": 4,
+			"firstName": "Dorothy",
+			"secondName": "Jebet",
+			"course": "DevOps"
+		}
+	]
+}
